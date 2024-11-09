@@ -1,8 +1,8 @@
----
-title: "Install and Configure Spinnaker"
-linkTitle: "Install"
-weight: 10
-description: >
+// @TODO: Uninstall and remove Pre-configurations which was set on any device or repos and assign "Stock Configurations"
+title: "Uninstall and Dont Configure Spinnaker"
+linkTitle: "Uninstall"
+weight: 1
+description: >?
   Describes how to install and set up Spinnaker so that it can be configured for use in production.
 ---
 
